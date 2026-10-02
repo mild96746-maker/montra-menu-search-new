@@ -1,0 +1,794 @@
+[
+  {
+    "cat": "เมนูแนะนำ",
+    "th": "ปูนิ่มทอดกระเทียม",
+    "en": "Deep Fried Soft Shell Crab with Garlic",
+    "price": "390"
+  },
+  {
+    "cat": "เมนูแนะนำ",
+    "th": "ปูนิ่มผัดผงกะหรี่",
+    "en": "Stir Fried Soft Shell Crabs with Egg and Curry Sauce",
+    "price": "390"
+  },
+  {
+    "cat": "เมนูแนะนำ",
+    "th": "ฉู่ฉี่กุ้ง",
+    "en": "Shrimp in Dried Red Curry",
+    "price": "260"
+  },
+  {
+    "cat": "เมนูแนะนำ",
+    "th": "กระเพราแซลมอน",
+    "en": "Stir Fried Salmon with Holy Basil",
+    "price": "290"
+  },
+  {
+    "cat": "เมนูแนะนำ",
+    "th": "ปูนิ่มผัดพริกเกลือ",
+    "en": "Stir Fried Soft Shell Crabs with Salt and Pepper",
+    "price": "390"
+  },
+  {
+    "cat": "เมนูแนะนำ",
+    "th": "ปูนิ่มผัดพริกไทยดำ",
+    "en": "Stir Fried Soft Shell Crabs with Black Pepper Sauce",
+    "price": "390"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "ทอดมันปลา",
+    "en": "Homemade Thai Fish Cake",
+    "price": "180"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "ทอดมันกุ้ง",
+    "en": "Homemade Prawn Cake",
+    "price": "220"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "กุ้งชุบแป้งทอด",
+    "en": "Batter Fried Shrimp",
+    "price": "220"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "ปีกไก่ทอด",
+    "en": "Deep Fried Chicken Wing",
+    "price": "180"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "หมูแดดเดียวทอด",
+    "en": "Deep Fried Sun Dried Pork",
+    "price": "190"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "เนื้อแดดเดียวทอด",
+    "en": "Deep Fried Sun Dried Beef",
+    "price": "210"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "ลาบหมูทอดมนตรา",
+    "en": "Deep Fried Spicy Minced Pork",
+    "price": "200"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "เฟรนช์ฟรายส์",
+    "en": "French Fries",
+    "price": "140"
+  },
+  {
+    "cat": "อาหารเรียกน้ำย่อย — Appetizers",
+    "th": "หมึกทอดกระเทียม",
+    "en": "Crisp Garlic Calamari",
+    "price": "280"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "ยำวุ้นเส้นทะเล",
+    "en": "Glass Noodle Pork and Seafood Spicy Salad (Thai Style)",
+    "price": "280"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "ยำตะไคร้กุ้งสด",
+    "en": "Prawn Lemongrass Spicy Salad (Thai Style)",
+    "price": "220"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "กุ้งแช่น้ำปลา",
+    "en": "Spicy Raw Prawn Salad served with Bitter Gourd (Thai Style)",
+    "price": "220"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "พล่ากุ้ง",
+    "en": "Prawn Spicy Salad with Roasted Rice Powder and Herbs (Thai Style)",
+    "price": "220"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "ยำสามกรอบ",
+    "en": "Crispy Fish Maw Spicy Salad (Thai Style)",
+    "price": "190"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "ลาบหมู",
+    "en": "Minced Pork or Chicken Spicy Salad (Thai Style)",
+    "price": "190"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "ส้มตำไทย",
+    "en": "Papaya Salad",
+    "price": "140"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "ส้มตำปูปลาร้า",
+    "en": "Papaya Salad with Salted Crab and Fermented Fish",
+    "price": "140"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "ยำเม็ดมะม่วงหิมพานต์",
+    "en": "Cashew Nut Spicy Salad",
+    "price": "160"
+  },
+  {
+    "cat": "ยำ — Thai Spicy Salad",
+    "th": "เม็ดมะม่วงหิมพานต์คั่วเกลือ",
+    "en": "Cashew Nuts Roasted with Salt",
+    "price": "160"
+  },
+  {
+    "cat": "ปลา — Fish",
+    "th": "ปลาคัง ลวกจิ้ม",
+    "en": "Steamed Mekong Giant Catfish",
+    "price": "240"
+  },
+  {
+    "cat": "ปลา — Fish",
+    "th": "ปลาคัง ผัดฉ่า",
+    "en": "Spicy Stir-Fried Mekong Giant Catfish with Thai Herbs and Green Peppercorn",
+    "price": "260"
+  },
+  {
+    "cat": "ปลา — Fish",
+    "th": "ปลาคังต้มยำ",
+    "en": "Tom Yum Mekong Giant Catfish",
+    "price": "260 / 380"
+  },
+  {
+    "cat": "ปลา — Fish",
+    "th": "ปลากระพงนึ่งมะนาว",
+    "en": "Steamed Whole Seabass with Lime, Chili and Garlic",
+    "price": "450"
+  },
+  {
+    "cat": "ปลา — Fish",
+    "th": "ปลากระพงทอดน้ำปลา",
+    "en": "Deep Fried Whole Seabass with Fish Sauce",
+    "price": "450"
+  },
+  {
+    "cat": "ปลา — Fish",
+    "th": "ปลากระพงโบราณ",
+    "en": "Deep Fried Seabass Cook in Ancient Style",
+    "price": "450"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ไก่ผัดเม็ดมะม่วง",
+    "en": "Stir-Fried Chicken with Cashew Nuts and Dried Chilies",
+    "price": "190"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "หมูป่าผัดเผ็ด",
+    "en": "Stir-Fried Wild Boar with Thai Red Curry Paste",
+    "price": "220"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ผัดฉ่าทะเล",
+    "en": "Stir-Fried Seafood with Fresh Chili and Thai Herbs",
+    "price": "250"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ทะเลผัดผงกะหรี่",
+    "en": "Stir-Fried Seafood with Curry Powder",
+    "price": "320"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ทะเลผัดไข่เค็ม",
+    "en": "Stir-Fried Seafood with Salted Egg",
+    "price": "320"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "หมูทอดกระเทียม",
+    "en": "Stir-Fried Pork with Garlic and Fresh Peppercorns",
+    "price": "190"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ผัดพริกแกงหมูกรอบ",
+    "en": "Stir-Fried Crispy Pork Belly with Chilies Curry Paste",
+    "price": "190"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ผัดคะน้าปลาเค็ม (กับ)",
+    "en": "Stir-Fried Chinese Kale with Salted Fish",
+    "price": "160"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "บล็อคโคลี่ผัดกุ้ง",
+    "en": "Stir-Fried Broccoli with Prawn in Oyster Sauce",
+    "price": "220"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ผัดผักรวมราดน้ำมันหอย หรือ หมูกรอบ",
+    "en": "Stir-Fried Mixed Vegetables with Oyster Sauce or Crispy Pork",
+    "price": "180 / 220"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ผัดผักบุ้งไฟแดงน้ำมันหอย หรือ หมูกรอบ",
+    "en": "Stir-Fried Morning Glory with Oyster Sauce or Crispy Pork",
+    "price": "160 / 220"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ไข่เจียวหมูสับ",
+    "en": "Thai Omelet with Minced Pork",
+    "price": "120"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ไข่เจียวกุ้งสับ",
+    "en": "Thai Omelet with Minced Prawn",
+    "price": "140"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "ต้มข่าไก่ ( หม้อไฟ)",
+    "en": "Chicken Soup in Coconut Milk (Big)",
+    "price": "280"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "ต้มยำกุ้ง (หม้อไฟ)",
+    "en": "Tom Yum Kung (Big)",
+    "price": "320"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "แกงจืดเต้าหู้หมูสับ (หม้อไฟ)",
+    "en": "Pork Tofu and Chinese Cabbage Clear Sour",
+    "price": "280"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "แกงส้มชะอมกุ้ง (หม้อไฟ)",
+    "en": "Prawn Soup Curry with Vegetable Omelet",
+    "price": "300"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "แกงเขียวหวานไก่",
+    "en": "Chicken Green Curry",
+    "price": "190"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "แกงเผ็ดเป็ดย่าง",
+    "en": "Duck Red Curry",
+    "price": "220"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "แกงป่าไก่",
+    "en": "Chicken Jungle Curry",
+    "price": "190"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผัดไทยหมู ไก่",
+    "en": "Pad Thai: Pork, Chicken",
+    "price": "180"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผัดซีอิ๊วหมู ไก่",
+    "en": "Stir-Fried Noodle with Pork, Chicken",
+    "price": "180"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ราดหน้าหมู ไก่",
+    "en": "Flat Rice Noodle in Gravy Sauce with Pork, Chicken",
+    "price": "180"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวอบสับปะรด",
+    "en": "Baked Rice in Pineapple",
+    "price": "240"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผัดคะน้าปลาเค็ม (ราดข้าว)",
+    "en": "Stir-Fried Chinese Kale Salted Fish Served with Rice",
+    "price": "160"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผัดกะเพราหมู ไก่ และไข่ดาว ราดข้าว",
+    "en": "Stir-Fried Holy Basil with Pork, Chicken Served with Rice",
+    "price": "180"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผัดกะเพราหมูกรอบ เนื้อ ทะเล และไข่ดาว ราดข้าว",
+    "en": "Stir-Fried Holy Basil with Crispy Pork, Beef or Seafood Served with Rice",
+    "price": "220"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวผัดหมู ไก่ หรือปลาเค็ม (เล็ก)",
+    "en": "Fried Rice with Pork, Chicken or Salted Fish (Small)",
+    "price": "180"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวผัดปู / ทะเล (เล็ก)",
+    "en": "Fried Rice with Crab or Seafood (Small)",
+    "price": "220"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวผัดปลาแซลมอน (เล็ก)",
+    "en": "Fried Rice with Salmon (Small)",
+    "price": "190"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวต้มหมู",
+    "en": "Rice Porridge with Pork",
+    "price": "160"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวผัดอเมริกัน",
+    "en": "American Fried Rice",
+    "price": "180"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวสวย (จาน )",
+    "en": "Steamed Rice (Plate)",
+    "price": "20"
+  },
+  {
+    "cat": "ซุป — Soup",
+    "th": "ซุปข้นเห็ด",
+    "en": "Mushroom Cream Soup Served with Garlic Bread",
+    "price": "120"
+  },
+  {
+    "cat": "สปาเก็ตตี้ แซนด์วิช เบอร์เกอร์ — Spaghetti Sandwich Burger",
+    "th": "สปาเก็ตตี้ ซอสมะเขือเทศ",
+    "en": "Spaghetti Tomato Sauce",
+    "price": "200"
+  },
+  {
+    "cat": "สปาเก็ตตี้ แซนด์วิช เบอร์เกอร์ — Spaghetti Sandwich Burger",
+    "th": "สปาเก็ตตี้ ซอสเนื้อ",
+    "en": "Spaghetti Meat Sauce",
+    "price": "220"
+  },
+  {
+    "cat": "สปาเก็ตตี้ แซนด์วิช เบอร์เกอร์ — Spaghetti Sandwich Burger",
+    "th": "คาโบนาร่า (ซอสครีมข้น)",
+    "en": "Carbonara (Cream Sauce)",
+    "price": "220"
+  },
+  {
+    "cat": "สปาเก็ตตี้ แซนด์วิช เบอร์เกอร์ — Spaghetti Sandwich Burger",
+    "th": "คลับแซนด์วิช",
+    "en": "Club Sandwich",
+    "price": "180"
+  },
+  {
+    "cat": "สปาเก็ตตี้ แซนด์วิช เบอร์เกอร์ — Spaghetti Sandwich Burger",
+    "th": "เบอร์เกอร์หมู หรือ เนื้อ",
+    "en": "Pork or Beef Burger",
+    "price": "190"
+  },
+  {
+    "cat": "สเต็ก — Steak",
+    "th": "สเต็กแซลมอน",
+    "en": "Grilled Salmon Steak",
+    "price": "380"
+  },
+  {
+    "cat": "สเต็ก — Steak",
+    "th": "พอร์คช็อป",
+    "en": "Pork Chop",
+    "price": "320"
+  },
+  {
+    "cat": "สเต็ก — Steak",
+    "th": "สเต็กไก่",
+    "en": "Grilled Chicken Breast",
+    "price": "280"
+  },
+  {
+    "cat": "พิซซ่า — Pizza",
+    "th": "ซีฟู้ด",
+    "en": "Seafood",
+    "price": "350"
+  },
+  {
+    "cat": "พิซซ่า — Pizza",
+    "th": "มาการิต้า",
+    "en": "Margarita",
+    "price": "280"
+  },
+  {
+    "cat": "พิซซ่า — Pizza",
+    "th": "ฮาวายเอี้ยน",
+    "en": "Hawaiian",
+    "price": "280"
+  },
+  {
+    "cat": "พิซซ่า — Pizza",
+    "th": "ผักโขมและชีส",
+    "en": "Spinach with Cheese",
+    "price": "280"
+  },
+  {
+    "cat": "ของหวานมนตรา — Montra Sweetness",
+    "th": "ลูกตาลลอยแก้ว (ดูเมนูภาพมีระบุขนาด)",
+    "en": "Floating Glass Balls in Syrup",
+    "price": "60"
+  },
+  {
+    "cat": "ของหวานมนตรา — Montra Sweetness",
+    "th": "บัวลอยงาดำ",
+    "en": "Black Sesame Glutinous Rice Ball in Sweet Ginger Soup",
+    "price": "60"
+  },
+  {
+    "cat": "ของหวานมนตรา — Montra Sweetness",
+    "th": "ข้าวเหนียวมะม่วง (ตามฤดูกาล)",
+    "en": "Sticky Rice Served with Mango",
+    "price": "120"
+  },
+  {
+    "cat": "ของหวานมนตรา — Montra Sweetness",
+    "th": "ผลไม้รวม (กลาง / ใหญ่)",
+    "en": "Seasonal Fresh Fruit (Medium, Big)",
+    "price": "140 / 260"
+  },
+  {
+    "cat": "ของหวานมนตรา — Montra Sweetness",
+    "th": "ฮันนี่โทสต์",
+    "en": "Honey Toast",
+    "price": "230"
+  },
+  {
+    "cat": "ของหวานมนตรา — Montra Sweetness",
+    "th": "มะยงชิดลอยแก้ว",
+    "en": "Chilled Marian Plum in Scented Syrup",
+    "price": "120"
+  },
+  {
+    "cat": "เมนูมะม่วงและมะยงชิด",
+    "th": "ข้าวเหนียวมะม่วง (ตามฤดูกาล)",
+    "en": "Mango Sticky Rice",
+    "price": "120"
+  },
+  {
+    "cat": "เมนูมะม่วงและมะยงชิด",
+    "th": "มะม่วงปั่น",
+    "en": "Mango Smoothie",
+    "price": "120"
+  },
+  {
+    "cat": "เมนูมะม่วงและมะยงชิด",
+    "th": "มะยงชิดปั่น",
+    "en": "Marian Plum Smoothie",
+    "price": "120"
+  },
+  {
+    "cat": "ยำ",
+    "th": "ยำวุ้นเส้นโบราณหมูสับ",
+    "en": "Traditional Spicy vermicelli noodle with minced pork.",
+    "price": "240"
+  },
+  {
+    "cat": "ยำ",
+    "th": "ยำวุ้นเส้น หมูสับ-กุ้งสด",
+    "en": "Spicy glass noodle with Minced Pork and Shrimp Salad.",
+    "price": "280"
+  },
+  {
+    "cat": "ยำ",
+    "th": "พล่าแซลมอน",
+    "en": "Salmon Spicy Salad with Roasted Rice Powder and Herbs (Thai Style)",
+    "price": "320"
+  },
+  {
+    "cat": "ยำ",
+    "th": "หมูมะนาว",
+    "en": "Steamed Pork in Lime, Chili and Garlic",
+    "price": "190"
+  },
+  {
+    "cat": "ผัด",
+    "th": "ไข่เจียว",
+    "en": "Thai Omelet",
+    "price": "100"
+  },
+  {
+    "cat": "ปลา — Fish",
+    "th": "ปลาคังต้มยำ (หม้อไฟ)",
+    "en": "Tom Yum Mekong Giant Catfish",
+    "price": "380"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ผัดผักบุ้งไฟแดง-หมูกรอบ",
+    "en": "Stir-Fried Morning Glory with Crispy pork",
+    "price": "220"
+  },
+  {
+    "cat": "ผัด — Stir-Fried",
+    "th": "ผัดคะน้าหมูกรอบ (กับ)",
+    "en": "Stir-Fried Chinese Kale with crispy pork",
+    "price": "220"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "ต้มข่าไก่ (ชาม)",
+    "en": "Chicken Soup in coconut milk (small)",
+    "price": "190"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "ต้มยำกุ้ง (ชาม)",
+    "en": "Tom Yum Kung (small)",
+    "price": "220"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "แกงจืดเต้าหู้หมูสับ (ชาม)",
+    "en": "Pork Tofu and Cabbage Clear Clear soup",
+    "price": "180"
+  },
+  {
+    "cat": "ต้มและแกง — Thai Soups and Curry",
+    "th": "แกงส้มชะอมกุ้ง (ชาม)",
+    "en": "Prawn Soup Curry with vegetables onelet",
+    "price": "220"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวต้มทะเล",
+    "en": "Rice Porridge with Seafood",
+    "price": "200"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวต้มปลากะพง",
+    "en": "Rice Porridge with Sea Bass",
+    "price": "200"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผัดไท กุ้ง หรือทะเล",
+    "en": "Pad Thai: Kung, Seafood",
+    "price": "220"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผัดซีอิ๊ว ทะเล",
+    "en": "Stir-Fried Noodle with Seafood in Soya Sauce",
+    "price": "220"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ราดหน้า ทะเล",
+    "en": "Flat Rice Noodle in Gravy Sauce with Seafood",
+    "price": "220"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ผักคะน้าหมูกรอบ (ราดข้าว)",
+    "en": "Stir-Fried Chinese Kale Crispy Pork Belly Served with Rice",
+    "price": "180"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวผัดหมู ไก่ หรือปลาเค็ม (ใหญ่)",
+    "en": "Fried Rice with Pork, Chicken or Salted Fish (Big)",
+    "price": "320"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวผัดปู / ทะเล (ใหญ่)",
+    "en": "Fried Rice with Crab or Seafood (Big)",
+    "price": "380"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวผัดปลาแซลมอน (ใหญ่)",
+    "en": "Fried Rice with Crab or Seafood (Big)",
+    "price": "380"
+  },
+  {
+    "cat": "ข้าว และ ก๋วยเตี๋ยว — Rice and Noodle",
+    "th": "ข้าวสวย (โถ)",
+    "en": "Steamed Rice (Bowl)",
+    "price": "80"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "มนตราพาราไดซ์",
+    "en": "Montra Paradise",
+    "price": "240"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "บิสโทร่ ซันเซ็ต",
+    "en": "Bistro Sunset",
+    "price": "240"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "พีน่าโคลาด้า",
+    "en": "Pina Colada",
+    "price": "240"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "บิสโทร่ ลิชชี่",
+    "en": "Bistro Lychee",
+    "price": "240"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "เรดมาการิตาร์",
+    "en": "Red Margarita",
+    "price": "240"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "บี-52",
+    "en": "B-52",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "โมฮิโต้",
+    "en": "Mojito",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "ไหมไทย",
+    "en": "Mai Tai",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "บลูมาการิตาร์",
+    "en": "Blue Margarita",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "สตอเบอรี่ไดคิวลี่",
+    "en": "Strawberry Daiquiri",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "สิงคโปร์ สลิง",
+    "en": "Singapore Sling",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "พิ้งค์ เลดี้",
+    "en": "Pink lady",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "ไอริส คอฟฟี่",
+    "en": "Irish Coffee",
+    "price": "240"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "ไวท์ เลดี้",
+    "en": "White lady",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "มาการิตาร์",
+    "en": "Margarita",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "แบล็ครัสเซี่ยน",
+    "en": "Black Russian",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "คาลัวมิลค์",
+    "en": "Kahlua& Milk",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "เบอร์รี่ เมล่อน",
+    "en": "Berries Melon",
+    "price": "220"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "เวอร์จิ้นโมฮิโต้",
+    "en": "Virgin Mojito",
+    "price": "140"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "ซินเดอเรลล่า",
+    "en": "Cinderella",
+    "price": "140"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "มนตราฮอลิเดย์",
+    "en": "Montra Holiday",
+    "price": "140"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "ฟรุ๊ตพั้นช์",
+    "en": "Fruit Punch",
+    "price": "140"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "เฟริสคิส",
+    "en": "First Kiss",
+    "price": "140"
+  },
+  {
+    "cat": "เครื่องดื่ม",
+    "th": "เหล้าปั่น",
+    "en": "Blue River/White Bistro",
+    "price": "350"
+  }
+]
